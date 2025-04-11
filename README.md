@@ -30,7 +30,7 @@ Project developed to perform basic product management in a practical and objecti
 3. Run the app with:
    python app.py
 4. Access in your browser:
-   http://127.0.0.1:5000/
+   http://127.0.0.1:5001/
 
 ## Contact
 
